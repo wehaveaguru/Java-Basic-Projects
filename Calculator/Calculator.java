@@ -24,5 +24,7 @@ public class Calculator{
                 break;
         }
 
+        input.close();
+
     }
 }
