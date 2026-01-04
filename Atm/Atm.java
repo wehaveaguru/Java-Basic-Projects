@@ -13,7 +13,7 @@ public class Atm {
         System.out.println("Enter a number.");
 
         int choice= input.nextInt();
-
+        
         if (choice==1){
             balancecheck();
         }
